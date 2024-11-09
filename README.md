@@ -36,3 +36,17 @@ Ubayyah Email Analyzer is an email security tool designed to evaluate the authen
 11. Comprehensive Report:
     
 	•	Summarizes all findings, including sender details, detected suspicious content, URL checks, and attachment analyses, in a structured format.
+
+
+
+
+# Requirements:
+
+• python3
+
+• Virus Total API Key:
+
+- Create a free account https://www.virustotal.com/gui/join-us
+  
+- Get your API Key https://youtu.be/9ftKViq71eQ
+
