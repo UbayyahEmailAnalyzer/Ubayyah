@@ -1,3 +1,5 @@
+
+
 # Ubayyah Email Analyzer
 Ubayyah Email Analyzer is an email security tool designed to evaluate the authenticity and potential risks of an email. Using various checks, it assesses the email’s sender, content, attachments, and links to identify suspicious elements that may indicate phishing or other malicious intentions.
 # Key Features and Functions: 
@@ -31,13 +33,13 @@ Ubayyah Email Analyzer is an email security tool designed to evaluate the authen
 
 9. Risk Scoring:
     
-	•	Compiles data into a risk score, categorizing emails as Clean, Suspicious, or Malicious based on predefined criteria (SPF/DKIM/DMARC results, domain reputation, detected URLs, attachment risks, etc.).
+	•	Categorizing emails as Clean, Suspicious, or Malicious based on predefined criteria (SPF/DKIM/DMARC results, domain reputation, detected URLs, attachment risks, etc.).
 
 11. Comprehensive Report:
     
 	•	Summarizes all findings, including sender details, detected suspicious content, URL checks, and attachment analyses, in a structured format.
 
-
+# Screenshots
 
 
 # Requirements:
@@ -50,3 +52,7 @@ Ubayyah Email Analyzer is an email security tool designed to evaluate the authen
   
 - Get your API Key https://youtu.be/9ftKViq71eQ
 
+# Team Members
+Abdullah Alfayez [linked-in](https://www.linkedin.com/in/abdullah-alfayez-768126243)
+
+Khalid Alamri [linked-in](https://www.linkedin.com/in/khalid-alamri-457108202/)
