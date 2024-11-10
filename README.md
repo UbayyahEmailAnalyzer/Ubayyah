@@ -44,6 +44,12 @@ Ubayyah Email Analyzer is an email security tool designed to evaluate the authen
 	•	Summarizes all findings, including sender details, detected suspicious content, URL checks, and attachment analyses, in a structured format.
 
 # Screenshots
+![Alt Text](images/TestEx1.png)
+
+![Alt Text](images/TestEx3.jpg)
+
+
+![Alt Text](images/TestEx2.jpg)
 
 
 # Requirements:
