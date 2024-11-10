@@ -1,6 +1,10 @@
 
+	
+<p align="center">
+<img src="/images/Logo1.png"  width="500"/>
+</p>
 
-# Ubayyah Email Analyzer
+ # Ubayyah Email Analyzer
 Ubayyah Email Analyzer is an email security tool designed to evaluate the authenticity and potential risks of an email. Using various checks, it assesses the email’s sender, content, attachments, and links to identify suspicious elements that may indicate phishing or other malicious intentions.
 # Key Features and Functions: 
 
@@ -56,3 +60,5 @@ Ubayyah Email Analyzer is an email security tool designed to evaluate the authen
 Abdullah Alfayez [linked-in](https://www.linkedin.com/in/abdullah-alfayez-768126243)
 
 Khalid Alamri [linked-in](https://www.linkedin.com/in/khalid-alamri-457108202/)
+
+
