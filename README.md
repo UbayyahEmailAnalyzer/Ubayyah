@@ -62,6 +62,33 @@ Ubayyah Email Analyzer is an email security tool designed to evaluate the authen
   
 - Get your API Key https://youtu.be/9ftKViq71eQ
 
+  # How to use it?
+  
+  1- Ensure that requests and tabulate are installed:
+
+        pip install requests tabulate
+
+
+2- Set the VirusTotal API Key:
+Open the script and replace the placeholder in the following line with your VirusTotal API key:
+ 
+           VT_API_KEY = 'your_api_key_here'
+
+
+3- Make the Script Executable:
+
+If you are using a script file (Ubayyah.py), you need to give it execute permissions:
+
+           sudo chmod +x Ubayyah.py
+	   
+Run the Script directly with Python:
+ 
+           python Ubayyah.py
+
+
+Provide the Email File:
+When prompted, provide the path to the email file you want to analyze (/home/kali/Download/BBH.eml). The script will extract information, detect suspicious words, check URL reputation, analyze attachments, and provide a final report.
+
 # Team Members
 Abdullah Alfayez [linked-in](https://www.linkedin.com/in/abdullah-alfayez-768126243)
 
