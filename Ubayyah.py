@@ -53,7 +53,7 @@ from tabulate import tabulate
 from urllib.parse import urlparse
 
 # Replace with your VirusTotal API key
-VT_API_KEY = ''
+VT_API_KEY = 'your_api_key_here'
 
 # VirusTotal API URLs
 URL_REPORT_URL = 'https://www.virustotal.com/vtapi/v2/url/report'
