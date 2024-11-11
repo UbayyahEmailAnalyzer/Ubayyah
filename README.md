@@ -64,7 +64,7 @@ Ubayyah Email Analyzer is an email security tool designed to evaluate the authen
 
   # How to use it?
   
-  1- Ensure that requests and tabulate are installed:
+1- Ensure that requests and tabulate are installed:
 
         pip install requests tabulate
 
